@@ -1,0 +1,7 @@
+@inproceedings{REPO261,
+    author = "Tang, Feng and Ling, Qiang",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "8741--8750",
+    title = "{Ranking-Based Siamese Visual Tracking}",
+    year = "2022"
+}
